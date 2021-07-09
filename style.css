@@ -1,0 +1,153 @@
+header 
+{
+    background-color:#fff9b0;
+    padding: 75px;
+    text-align: center;
+    
+    color: rgb(0, 0, 0);
+}
+
+footer
+{
+    background-color: #ffd384 ;
+    width: 100%;
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+footer a 
+{
+    padding: 0 15px;
+}
+
+.aside1
+{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: left;
+    font-style: italic;
+    background-color: lightgray;
+  }
+
+  .aside2
+{
+    
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+  }
+
+
+.footercontent
+{
+    padding-top: 20px;    
+}
+
+.logo
+{
+    position: absolute;
+    top: 0;
+}
+
+.name
+{
+    background-color:#ffd384;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+
+
+.howto
+{
+    background-color:#ffab73;
+    padding: 22px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.dp
+{
+    background-color: #ffaec0;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.images
+{
+    background-color: #caf4f8;
+    padding: 30px;
+    
+    font-size: 30px;  
+    color: rgb(0, 0, 0);    
+}
+
+.imagetext
+{
+    font-size: 20px;
+    margin-right: 20px;
+    padding-left:150px;
+    padding-bottom: 20px;
+}
+
+.imagetext2
+{
+    font-size: 20px;
+    margin-right: 20px;
+    padding-left:150px;    
+}
+
+.nd 
+{
+    height: 85px;
+    padding-top: 20px;
+    float: left;
+    padding: 0 10px;
+}
+
+  .st {
+    padding: 20px 0;
+    text-align: left;
+    margin-right: 20px;
+}
+
+.button1 
+{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border: 1px solid #000000; 
+    font-weight: 500;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+

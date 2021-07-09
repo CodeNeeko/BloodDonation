@@ -1,0 +1,11 @@
+<nav>
+            <ul  style="font-size: 115%;">
+            
+            <li><a href="canidonate.html">Can I give blood?</a></li><br>
+            <li><a href="donationprocess.html">Donation Process</a></li><br>
+            <li><a href="#">About</a></li>
+                
+            </ul>
+        </nav>
+
+        <button class="button1">
